@@ -25,17 +25,17 @@ Khi màn đêm buông xuống và mặt đất chìm vào bóng tối
 Mặt trăng là thứ ánh sáng duy nhất ta thấy
 
 7
-00:00:27 --> 00:00:29
+00:00:27,000 --> 00:00:29,000
 Thì tôi cũng chẳng sợ đâu, tôi không sợ
 
 8
-00:00:31 --> 00:00:33
+00:00:31,000 --> 00:00:33,000
 Chỉ khi nào em vẫn còn bên tôi, đứng bên cạnh tôi
 
 9
-00:00:34 --> 00:00:35
+00:00:34,000 --> 00:00:35,000
 Ôi em yêu, em vẫn đứng bên tôi
 
 11
-00:00:35 --> 00:00:36
+00:00:35,000 --> 00:00:36,000
 Đứng bên tôi
