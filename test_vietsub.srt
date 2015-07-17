@@ -1,0 +1,41 @@
+1
+00:00:01,478 --> 00:00:02,020
+Thử subtitle cho VAVideoView
+
+2
+00:00:05,045 --> 00:00:08,545
+Hỗ trợ <i>in nghiêng</i> 
+
+3
+00:00:09,378 --> 00:00:11,745
+Hỗ trợ  <b>in đậm</b>
+
+4
+00:00:13,812 --> 00:00:16,144
+Hỗ trợ
+nhiều
+dòng
+
+5
+00:00:18,211 --> 00:00:21,211
+Khi màn đêm buông xuống và mặt đất chìm vào bóng tối
+
+6
+00:00:23,211 --> 00:00:25,211
+Mặt trăng là thứ ánh sáng duy nhất ta thấy
+
+7
+00:00:27 --> 00:00:29
+Thì tôi cũng chẳng sợ đâu, tôi không sợ
+
+8
+00:00:31 --> 00:00:33
+Chỉ khi nào em vẫn còn bên tôi, đứng bên cạnh tôi
+
+9
+00:00:34 --> 00:00:35
+Ôi em yêu, em vẫn đứng bên tôi
+
+11
+00:00:35 --> 00:00:36
+Đứng bên tôi

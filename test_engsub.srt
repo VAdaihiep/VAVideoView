@@ -1,0 +1,41 @@
+1
+00:00:01,478 --> 00:00:02,020
+Test subtitle for VAVideoView
+
+2
+00:00:05,045 --> 00:00:08,545
+Support for <i>italic</i> font
+
+3
+00:00:09,378 --> 00:00:11,745
+Support for <b>bold</b> font
+
+4
+00:00:13,812 --> 00:00:16,144
+Multi
+Line
+Support ;)
+
+5
+00:00:18,211 --> 00:00:21,211
+When the night has come, and the land is dark 
+
+6
+00:00:23,211 --> 00:00:25,211
+And the moon is the only light we will see 
+
+7
+00:00:27 --> 00:00:29
+No, I won't be afraid, oh, I won't be afraid 
+
+8
+00:00:31 --> 00:00:33
+Just as long as you stand, stand by me 
+
+9
+00:00:34 --> 00:00:35
+So darlin', darlin' stand by me 
+
+11
+00:00:35 --> 00:00:36
+Oh stand by me 
